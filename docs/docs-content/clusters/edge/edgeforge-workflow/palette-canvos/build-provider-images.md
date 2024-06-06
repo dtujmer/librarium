@@ -171,7 +171,7 @@ artifacts at the same time.
 
 ## Next Steps
 
-Provider images are only one the artifacts you need to provision an Edge deployment. You also need to build the Edge
+Provider images are only one of the artifacts you need to provision an Edge deployment. You also need to build the Edge
 Installer ISO that matches your provider image settings. Refer to [Build Edge Installer ISO](./build-installer-iso.md)
 for more information.
 
